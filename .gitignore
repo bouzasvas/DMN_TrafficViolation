@@ -1,6 +1,2 @@
-.vscode
-.classpath
-.project
-.settings
-
 target
+*.swidtag
